@@ -6,7 +6,7 @@ Pipeline creation, management, and orchestration using Kubeflow
 
 ## **Architecture**
 
-![](https://github.com/DATAPACT/Kubepipe/blob/main/archi.png)
+![]([https://github.com/DATAPACT/Kubepipe/blob/main/archi.png](https://github.com/rajsh3kar/Kubepipe/blob/main/archi.png))
 ## **Component Definition**
 Pipeline Components
 
